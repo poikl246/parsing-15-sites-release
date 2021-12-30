@@ -1,0 +1,10 @@
+aiohttp==3.8.1
+beautifulsoup4==4.10.0
+fake_useragent==0.1.11
+fuzzywuzzy==0.18.0
+PyQt5==5.15.3
+requests==2.26.0
+selenium==3.141.0
+multiprocess==0.70.12.2
+multiprocessing==2.6.2.1
+asyncio==3.4.3
