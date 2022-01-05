@@ -24,7 +24,7 @@ options.set_preference("dom.webdriver.enabled", True)
 
 
 # headless mode
-options.headless = False
+options.headless = True
 
 
 
